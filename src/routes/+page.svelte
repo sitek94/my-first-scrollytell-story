@@ -50,14 +50,6 @@
 </Scrolly>
 
 <style>
-	:root {
-		color-scheme: dark;
-	}
-
-	:global(html) {
-		font-family: sans-serif;
-	}
-
 	.stats {
 		position: fixed;
 		top: 0;
